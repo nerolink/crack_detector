@@ -140,7 +140,7 @@ output_nodes = 8
 input_path = 'input_data'
 output_path = 'output_data'
 data_floor = 1
-data_ceiling = 2
+data_ceiling = 27
 
 # learning rate(学习率，此处可以修改)
 learning_rate = 0.1
